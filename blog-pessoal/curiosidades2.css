@@ -10,6 +10,9 @@
     #titulo{
         text-align: center;
     }
+    #espaço{
+        margin-top: 0px;
+    }
     #nome{
         margin-left: 75px;
     }
@@ -41,20 +44,25 @@
     }
 
     #nome2{
-        margin-left: 95px;
+        margin-left: 1710px;
     }
 
     #b{
         width: 250px;
-        margin-left: 20px;
+        margin-left: 1630px;
         display: block;
     }
+    
+#p1{
+    font-size: 12.5pt;
+}
 
     #death{
         margin-top: -320px;
-        margin-left: 400px;
-}
-    
+        margin-left: 50px;
+        
+    }
+
     #botao2{ 
     color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
@@ -65,10 +73,9 @@
     width: 50px;
     display: block;
 }
-
-    #hr3{
-    margin-top: 50px;
-}
+    hr{
+        margin-top: 70px;
+    }
 
     #nome3{
         margin-left: 75px;
