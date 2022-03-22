@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(27, 27, 48);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+#botao{
+    margin: 0 auto;  
+    color: rgb(0, 0, 0);
+    display: block;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 110px;
+}
+#instagram{
+    width: 100px;
+    margin-top: 80px;
+}
+#linkedin{
+    width: 100px;
+}
+#github{
+    width: 100px;
+}
+#twitter{
+width: 100px;
+}

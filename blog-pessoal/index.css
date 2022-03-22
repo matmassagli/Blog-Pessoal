@@ -1,0 +1,102 @@
+/* Minhas cores */
+:root{
+--fundo: #0057ff;
+--gradientedefundo: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,0,36,1) 35%, rgba(2,0,36,1) 100%);
+}
+
+body{
+  font-family: 'Work Sans', sans-serif;
+    background: var(--gradientedefundo); 
+    color: #fff;
+    width: 100%;
+    margin: auto; 
+    text-align: center;  
+}
+
+h1{
+    margin-top: 5px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+img{
+    margin: 5px auto;        
+    width: 10%;
+    display: block;
+}
+
+
+#link{
+        margin: 0 auto;
+        margin-top: 30px;
+        display: block;
+        width: 150px;
+        border: none;
+        padding: 20px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20px;
+        font-size: medium;
+        color: black;
+        text-align: center;
+      }
+
+      #curriculo{
+        margin: 0 auto;
+        margin-top: 30px;
+        text-align: center;
+        display: block;
+        width: 150px;
+        border: none;
+        padding: 10px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: medium;
+        color: black;
+      }
+
+      #curiosidades{
+        margin: 0 auto;
+        margin-top: -40px;
+        margin-left: 500px;
+        display: block;
+        width: 150px;
+        border: none;
+        padding: 10px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: medium;
+        color: black;
+        text-align: center;
+      }
+
+      #portifolio{
+        margin: 0 auto;
+        margin-top: -40px;
+        margin-right: 500px;
+        display: block;
+        width: 150px;
+        border: none;
+        padding: 10px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: medium;
+        color: black;
+        text-align: center;
+      }
+      #contato{
+        margin: 0 auto;
+        margin-top: 30px;
+        text-align: center;
+        display: block;
+        width: 150px;
+        border: none;
+        padding: 10px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-size: medium;
+        color: black;
+      }
+
+
+
+

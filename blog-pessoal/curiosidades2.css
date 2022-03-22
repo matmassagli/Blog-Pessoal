@@ -1,0 +1,123 @@
+
+     body{
+        background-color: #201f1f;
+        font-family: 'Work Sans', sans-serif; 
+        color: #fff;
+        width: 100%;
+        margin: auto; 
+        font-size: 14pt;
+    }
+    #titulo{
+        text-align: center;
+    }
+    #nome{
+        margin-left: 75px;
+    }
+     
+    #a{        
+        width: 250px;
+        margin-left: 20px;
+        display: block;
+    }
+
+    #botao1{ 
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 55px;
+    width: 50px;
+    display: block;
+}
+
+    #attack{
+        margin-top: -320px;
+        margin-left: 400px;
+    }
+
+    #hr2{
+        margin-top: 70px;
+    }
+
+    #nome2{
+        margin-left: 95px;
+    }
+
+    #b{
+        width: 250px;
+        margin-left: 20px;
+        display: block;
+    }
+
+    #death{
+        margin-top: -320px;
+        margin-left: 400px;
+}
+    
+    #botao2{ 
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 50px;
+    display: block;
+}
+
+    #hr3{
+    margin-top: 50px;
+}
+
+    #nome3{
+        margin-left: 75px;
+    }
+
+    #c{
+        width: 250px;
+        margin-left: 20px;
+        display: block;
+    }
+
+    #demon{
+        margin-top: -320px;
+        margin-left: 400px;
+    }
+    #botao3{
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+        border-radius: 5px;
+        padding: 10px;
+        margin-top: 30px;
+        margin-left: 50px;
+        width: 50px;
+        display: block;
+}
+
+#hr3{
+    margin-top: 50px;
+}
+
+    #curiosidades {
+        margin: 0 auto;  
+        color: rgb(255, 255, 255);
+        display: block;
+        border-radius: 5px;
+        padding: 10px;
+        background-color: rgb(0, 0, 0);
+        width: 150px;
+        margin-bottom: 10px;
+    }
+
+#link{
+    display: block;
+    margin-left: 20px;
+    margin-top: 55px;
+    text-align: center;
+}
+
+
+
+
+    

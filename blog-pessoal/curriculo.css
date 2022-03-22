@@ -1,0 +1,48 @@
+/* Minhas cores */
+:root{
+    --fundo: #0057ff;
+    --gradientedefundo: linear-gradient(90deg, rgb(31, 31, 65) 0%, rgb(31, 31, 65) 35%, rgb(31, 31, 65) 100%);
+    }
+    
+    body{
+        font-family: 'Work Sans', sans-serif;
+        background: var(--gradientedefundo); 
+        color: #fff;
+        width: 100%;
+        margin: auto;   
+    }
+    
+    h1{
+        font-family: 'Work Sans', sans-serif;
+        text-align: center;
+    }
+    h2{
+        font-family: 'Work Sans', sans-serif;
+        text-align: center;
+    }
+    
+    h1 {
+        background-color: rgba(0, 0, 0, 0);
+    }
+    
+    img{
+        margin: 5px auto;        
+        width: 12%;
+        display: block;
+    }
+    #menu{
+        margin: 0 auto;  
+        color: rgb(255, 255, 255);
+        display: block;
+        border-radius: 5px;
+        padding: 10px;
+        background-color: rgb(0, 0, 0);
+        width: 118px;
+        text-align: center;
+    }
+
+
+    
+    
+    
+    

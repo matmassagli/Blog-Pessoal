@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(31, 31, 65);
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(255, 255, 255);
+     
+}
+#menu{
+    color: rgb(0, 0, 0);
+    display: block;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 110px;
+    margin: auto;
+    margin-bottom: -10px;
+    
+}
+#matheus{
+    max-width: 300px;
+    max-height: auto;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+h2{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#link{
+    margin: 0 auto;  
+    color: rgb(0, 0, 0);
+    display: block;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+}
+#git{
+    margin-left: 20px;
+}
+div{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#bloco2{
+    background-color: rgb(46, 47, 48);
+    text-align: center;
+    margin-top: 10px;
+}
+
+#bloco2h2{
+    margin-bottom: -10px;
+}
+
+
+#projetos{
+    margin-bottom: 40px;
+}
